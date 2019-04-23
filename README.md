@@ -6,7 +6,7 @@ This is a modpack that includes approved mods for the Shotbow Network.
 
 It can only be used with Technic Launcher.
 
-The following mods are included in the modpack as of v1.2:
+The following mods are included in the modpack as of v1.3:
  - Optifine E3
  - Toggle Sneak/Sprint
  - The 5ZigMod
